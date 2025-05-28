@@ -1,0 +1,1 @@
+Using a dataset that consists of 3000 lung cancer patients we would like to understand whether some of the known knowledge about lung cancer applies to patients within this hospital in order to understand the kind of effect these factors have on patient death, cancer development and the severity of their cancer.
