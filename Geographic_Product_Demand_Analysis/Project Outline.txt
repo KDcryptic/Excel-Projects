@@ -1,0 +1,41 @@
+Project Outline
+
+Using geographical data of product sales from different countries, identify trends and list insights that can improve business decisions and help better understand product demand within these countries.
+
+
+
+Data Cleaning and Transformations
+
+1. Converted date values into short-dates.
+2. Removed unwanted columns such as "Longitude", "Latitude", "Location ID" and "Product_ID".
+3. Converted Date column to short date.
+4. Rounded up sales volume values.
+5. Created a column called "Product Group" using a formula to determine whether a product is either part of "Home", "Toys" "Clothing", "Electronics", and "Books" based on the "Product_ID".
+
+
+Questions to answer
+
+- Which 3 cities generate the highest sales revenue?
+- Are there geographic patterns in sales? Do certain regions prefer specific products?
+- How do sales vary across countries? Are there any standout locations?
+- Which product category has the highest sales volume and revenue?
+- How does sales revenue compare to sales volume—Are we selling more or making more?
+- Can we identify revenue spikes? What factors contributed to them?
+- What is the overall sales trend over time?
+
+
+
+Insights
+
+1. Tokyo had the highest revenue out of all the cities.
+2. Women's dresses sold the most in 7 out of the 8 countries and camera's sold the least in all countries.
+3. 61% of the sales came from India and USA with India making up 34% which is the highest percentage of sales among all the countries. Australia is the lowest making up only 4%.
+4. Clothing has the highest amount of sales, but is the 4th lowest revenue contributor while electronics bring in the most revenue and have the second highest amount of sales making it a favorable product group in terms of popularity and revenue.
+5. With clothing being the primary example we see that we are selling more than we are making probably due to low prices and demand.
+6. In August of 2024 we saw a huge drop in revenue due to a decrease in the amount of sales.
+7. The overall sales trend appears to be going down
+
+
+
+
+
